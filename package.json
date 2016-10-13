@@ -1,0 +1,22 @@
+{
+  "name": "Bootstrap",
+  "version": "1.0.0",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-customize-bootstrap": "0.0.6",
+    "gulp-sass": "^2.3.2",
+    "jshint": "^2.9.3"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-customize-bootstrap": "0.0.6",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.10",
+    "jshint": "^2.9.3",
+    "node-sass": "^3.10.1"
+  }
+}
